@@ -1,4 +1,3 @@
-Assignment
 World Covid-19 Visualization with Python and Tableau
 In this assignment, you will design and build a set of visualizations for a data set and provide a rigorous rationale for your visualisation choices. You should in theory be ready to explain the contribution of part in the display. The assignment includes two visualisation subtasks. First, you are advised in this assignment to use Python as the main visualisation language to design and plot the graphics or charts from the statistical data described below. Second, you should use Tableau to design and build an interactive dashboard showing the main statistics and visual reports extracted from the data set. 
 However, you may find it most instructive to use some other scripting or statistical tools to facilitate the visualisation process.
@@ -16,7 +15,6 @@ Source: https://covid19.who.int/data
 You should read the description of each field: 
 https://covid19.who.int/data   select Data Download  read tables: Daily cases and Vaccination data.
 
-
 •	Your Tasks
 Task 1:
 1.	Start by choosing 5 questions you'd like 5 visualisations to answer.
@@ -27,6 +25,7 @@ o	You are free to transform the data as you see fit. Such transforms may include
 o	Your chart image should be interpretable without recourse to your short write-up. 
 o	Do not forget to include title, axis labels or legends as needed!
 o	As different visualisations can emphasize different aspects of a data set, you should document what aspects of the data you are attempting to most effectively communicate. 
+
 Task 2:
 Create one dashboard in Tableau, containing at least five visualisations, to analyse and show:
 o	Daily cases 
