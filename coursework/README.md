@@ -40,19 +40,6 @@ o	Document the visual encodings you used and why they are appropriate for the da
 o	These decisions include the choice of visualization type, size, color, scale, and other visual elements, as well as the use of sorting or other data transformations. How do these decisions facilitate effective communication?
 
 
-
-
-
-•	Grading Rubric
-The assignment score is out of a maximum of 100 points. We will determine scores by judging both the soundness of your visualisation and dashboard designs and the quality of the write-up. We will also look for consideration of audience, message and intended task.
-We will use the following rubric to grade your assignment. Note, rubric cells may not map exactly to specific point scores.
-Component	Excellent	Satisfactory	Poor
-Data Question	An interesting question (i.e., one without an immediately obvious answer) is posed. The visualization provides a clear answer.	A reasonable question is posed, but it is unclear whether the visualization provides an answer to it.	Missing or unclear question posed of the data.
-Mark, Encoding, and Data Transforms	All design choices are effective. The visualization can be read and understood effortlessly.	Design choices are largely effective, but minor errors hinder comprehension.	Ineffective mark, encoding, or data transformation choices are distracting or potentially misleading.
-Titles & Labels	Titles and labels helpfully describe and contextualize the visualization.	Most necessary titles and labels are present, but they could provide more context.	Many titles or labels are missing, or do not provide human-understandable information.
-Design Rationale	Well-crafted write-up provides reasoned justification for all design choices.	Most design decisions are described, but rationale could be explained at a greater level of detail.	Missing or incomplete. Several design choices are left unexplained.
-Creativity & Originality	You exceeded the parameters of the assignment, with original insights or a particularly engaging design.	You met all the parameters of the assignment.	You met most of the parameters of the assignment.
-
 •	Submission Details
 This is an individual assignment. You may not work in groups. Your completed tasks are due as follows:
 o	Task 1: Thu. 01/12/22, by noon.
