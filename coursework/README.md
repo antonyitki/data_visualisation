@@ -17,6 +17,7 @@ https://covid19.who.int/data   select Data Download  read tables: Daily ca
 
 •	Your Tasks
 Task 1:
+
 1.	Start by choosing 5 questions you'd like 5 visualisations to answer.
 2.	Design and plot (in Python) a static visualisation (i.e., a single plot) that you believe effectively answers one of the questions and use the question as the title of your graphic. 
 3.	Provide a short write-up (no more than 2 paragraphs) describing your plot design and display.
@@ -27,7 +28,8 @@ o	Do not forget to include title, axis labels or legends as needed!
 o	As different visualisations can emphasize different aspects of a data set, you should document what aspects of the data you are attempting to most effectively communicate. 
 
 Task 2:
-Create one dashboard in Tableau, containing at least five visualisations, to analyse and show:
+
+1.  Create one dashboard in Tableau, containing at least five visualisations, to analyse and show:
 o	Daily cases 
 o	Daily deaths 
 o	Statistics using country 
